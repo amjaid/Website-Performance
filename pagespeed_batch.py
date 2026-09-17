@@ -11,7 +11,7 @@ import sys
 import re
 from datetime import datetime
 
-API_KEY = "AIzaSyCy49kbYm_IUvVmhFSBqmq7eOKAjC0UY38"  # Replace with your actual key
+API_KEY =   # Replace with your actual key
 
 # List of possible column names for website URLs
 URL_COLUMN_CANDIDATES = ['website', 'url', 'Website', 'URL', 'site', 'domain', 'web', 'link']
